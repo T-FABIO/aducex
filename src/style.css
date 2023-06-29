@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.logo{
+display: flex;
+
+}
+
+.logo img{
+
+    height: 100px;
+    width: 200px;
+}
