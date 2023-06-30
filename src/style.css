@@ -1,15 +1,2 @@
-header{
-    display: flex;
-    justify-content: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
 
-.logo{
-display: flex;
-
-}
-
-.logo img{
-
-    height: 100px;
-    width: 200px;
-}
